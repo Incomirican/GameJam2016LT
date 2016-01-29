@@ -10,6 +10,7 @@
     <sprite>sprites\spr_01</sprite>
     <sprite>sprites\spr_03</sprite>
     <sprite>sprites\spr_04</sprite>
+    <sprite>sprites\spr_player</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
