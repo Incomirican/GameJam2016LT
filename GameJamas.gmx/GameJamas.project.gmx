@@ -24,6 +24,8 @@
     <object>objects\obj_7</object>
     <object>objects\obj_8</object>
     <object>objects\obj_9</object>
+    <object>objects\obj_controls_keyboard</object>
+    <object>objects\obj_controls_mouse</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_level1</room>
