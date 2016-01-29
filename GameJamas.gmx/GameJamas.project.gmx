@@ -14,7 +14,7 @@
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
-    <object>objects\obj_0</object>
+    <object>objects\obj_player</object>
     <object>objects\obj_1</object>
     <object>objects\obj_2</object>
     <object>objects\obj_3</object>
